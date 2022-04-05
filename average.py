@@ -1,3 +1,8 @@
+# Author: Christopher Boyd
+# GitHub username: CtheBoyd
+# Date: 4/4/2022
+# Description: Asks user to provide five numbers and then provides an average.
+#
 print ("Please enter five numbers")
 num_1 = float(input())
 num_2 = float(input())
